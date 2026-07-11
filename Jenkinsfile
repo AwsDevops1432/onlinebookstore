@@ -8,7 +8,7 @@ pipeline {
               	    }  
          	    } 
         }
-		stage("12345") {  
+		stage("i love you devops") {  
            	    steps {  
               	    echo "cloning repository" 
               	    echo "repo cloned successfully"  
